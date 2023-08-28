@@ -160,6 +160,6 @@ cython_debug/
 #.idea/
 
 # Manual added
-secrets.py
+keys.py
 credentials.json
 token.json
