@@ -1,5 +1,15 @@
 import json
 
+def generate_description(pieces, all_clothing_pieces):
+    description = []
+    for piece_id in pieces:
+        piece = next(item for item in all_clothing_pieces if item["id"] == piece_id)
+        piece_description = f"{piece['brand']} {piece['type']} in {piece['color']}"
+        if 'size' in piece:
+            piece_description += f", size {piece['size']}"
+        description.append(piece_description)
+    return " | ".join(description)
+
 # Sample data
 styles = ["casual", "formal", "sporty", "business casual", "beach"]
 traits = ["dressy", "casual", "relaxed", "sharp", "cozy"]
@@ -149,6 +159,9 @@ outfits.extend([
         "like_score": 7
     }
 ])
+
+for outfit in outfits:
+    outfit["description"] = generate_description(outfit["pieces"], clothing_pieces)
 
 data = {
     "clothing_pieces": clothing_pieces,

@@ -152,7 +152,8 @@
                 "relaxed"
             ],
             "convenience_score": 8,
-            "like_score": 9
+            "like_score": 9,
+            "description": "Polo Ralph Lauren shirt in blue, size M | Levi's 501 Original Fit Jeans pants in black, size 32 | Nike Killshot 2 Leather Shoes shoes in white, size 10 | Seiko Men's Stainless Steel Watch watch in silver"
         },
         {
             "id": 2,
@@ -170,7 +171,8 @@
                 "cozy"
             ],
             "convenience_score": 9,
-            "like_score": 7
+            "like_score": 7,
+            "description": "Calvin Klein Cotton Classics shirt in white, size M | Under Armour Men's Raid 10-inch Workout Gym Shorts shorts in khaki, size 32 | Adidas Ultraboost 21 shoes in black, size 10 | Adidas Originals Cap hat in black, size L | Ray-Ban Classic Aviator sunglasses in black"
         },
         {
             "id": 3,
@@ -188,7 +190,8 @@
                 "dressy"
             ],
             "convenience_score": 7,
-            "like_score": 8
+            "like_score": 8,
+            "description": "Polo Ralph Lauren shirt in blue, size M | Levi's 501 Original Fit Jeans pants in black, size 32 | Nike Killshot 2 Leather Shoes shoes in white, size 10 | Tommy Hilfiger Men's Classic Hooded Puffer Jacket jacket in brown, size M | Seiko Men's Stainless Steel Watch watch in silver | Herm\u00e8s Men's Belt belt in brown"
         },
         {
             "id": 4,
@@ -204,7 +207,8 @@
                 "sharp"
             ],
             "convenience_score": 8,
-            "like_score": 8
+            "like_score": 8,
+            "description": "Calvin Klein Cotton Classics shirt in white, size M | Levi's 501 Original Fit Jeans pants in black, size 32 | Adidas Ultraboost 21 shoes in black, size 10 | Nike Performance Cushion Crew Training Socks socks in gray, size M"
         },
         {
             "id": 5,
@@ -220,7 +224,8 @@
                 "cozy"
             ],
             "convenience_score": 8,
-            "like_score": 8
+            "like_score": 8,
+            "description": "Lacoste Classic Polo Shirt shirt in green, size M | Dockers Classic Fit Chinos pants in navy, size 32 | Clarks Desert Boot shoes in brown, size 10 | North Face Thermoball Eco Jacket jacket in black, size M"
         },
         {
             "id": 6,
@@ -236,7 +241,8 @@
                 "sharp"
             ],
             "convenience_score": 7,
-            "like_score": 9
+            "like_score": 9,
+            "description": "Brooks Brothers Dress Shirt shirt in striped blue, size M | Levi's 501 Original Fit Jeans pants in black, size 32 | Allen Edmonds Park Avenue Oxford shoes in black, size 10 | Tommy Hilfiger Stripe Tie tie in red"
         },
         {
             "id": 7,
@@ -252,7 +258,8 @@
                 "casual"
             ],
             "convenience_score": 9,
-            "like_score": 7
+            "like_score": 7,
+            "description": "Polo Ralph Lauren shirt in blue, size M | Under Armour Men's Raid 10-inch Workout Gym Shorts shorts in khaki, size 32 | Nike Killshot 2 Leather Shoes shoes in white, size 10 | Adidas Originals Cap hat in black, size L"
         },
         {
             "id": 8,
@@ -269,7 +276,8 @@
                 "dressy"
             ],
             "convenience_score": 8,
-            "like_score": 9
+            "like_score": 9,
+            "description": "Brooks Brothers Dress Shirt shirt in striped blue, size M | Dockers Classic Fit Chinos pants in navy, size 32 | Allen Edmonds Park Avenue Oxford shoes in black, size 10 | Tommy Hilfiger Stripe Tie tie in red | Banana Republic Cashmere Sweater sweater in gray, size M"
         },
         {
             "id": 9,
@@ -285,7 +293,8 @@
                 "casual"
             ],
             "convenience_score": 8,
-            "like_score": 8
+            "like_score": 8,
+            "description": "Lacoste Classic Polo Shirt shirt in green, size M | Levi's 501 Original Fit Jeans pants in black, size 32 | Adidas Ultraboost 21 shoes in black, size 10 | Nike Performance Cushion Crew Training Socks socks in gray, size M"
         },
         {
             "id": 10,
@@ -301,7 +310,8 @@
                 "cozy"
             ],
             "convenience_score": 8,
-            "like_score": 7
+            "like_score": 7,
+            "description": "Calvin Klein Cotton Classics shirt in white, size M | Dockers Classic Fit Chinos pants in navy, size 32 | Clarks Desert Boot shoes in brown, size 10 | North Face Thermoball Eco Jacket jacket in black, size M"
         },
         {
             "id": 11,
@@ -318,7 +328,8 @@
                 "casual"
             ],
             "convenience_score": 9,
-            "like_score": 8
+            "like_score": 8,
+            "description": "Polo Ralph Lauren shirt in blue, size M | Levi's 501 Original Fit Jeans pants in black, size 32 | Nike Killshot 2 Leather Shoes shoes in white, size 10 | Tommy Hilfiger Men's Classic Hooded Puffer Jacket jacket in brown, size M | Ray-Ban Classic Aviator sunglasses in black"
         },
         {
             "id": 12,
@@ -334,7 +345,8 @@
                 "dressy"
             ],
             "convenience_score": 7,
-            "like_score": 9
+            "like_score": 9,
+            "description": "Brooks Brothers Dress Shirt shirt in striped blue, size M | Under Armour Men's Raid 10-inch Workout Gym Shorts shorts in khaki, size 32 | Allen Edmonds Park Avenue Oxford shoes in black, size 10 | Tommy Hilfiger Stripe Tie tie in red"
         },
         {
             "id": 13,
@@ -350,7 +362,8 @@
                 "relaxed"
             ],
             "convenience_score": 8,
-            "like_score": 8
+            "like_score": 8,
+            "description": "Lacoste Classic Polo Shirt shirt in green, size M | Dockers Classic Fit Chinos pants in navy, size 32 | Nike Killshot 2 Leather Shoes shoes in white, size 10 | North Face Thermoball Eco Jacket jacket in black, size M"
         },
         {
             "id": 14,
@@ -367,7 +380,8 @@
                 "casual"
             ],
             "convenience_score": 8,
-            "like_score": 7
+            "like_score": 7,
+            "description": "Calvin Klein Cotton Classics shirt in white, size M | Levi's 501 Original Fit Jeans pants in black, size 32 | Adidas Ultraboost 21 shoes in black, size 10 | Nike Performance Cushion Crew Training Socks socks in gray, size M | Banana Republic Cashmere Sweater sweater in gray, size M"
         }
     ]
 }
